@@ -220,9 +220,9 @@ If you use or adapt this notebook, please also cite this repository or the versi
 
 The notebook sets Python and NumPy random seeds to `42`. Package versions are not pinned in the notebook, so exact numerical reproducibility across different RDKit, NumPy, scikit-learn, and plotting-library versions is not guaranteed. For a publication or formal release, record the tested package versions and the Git commit hash used to generate the final outputs.
 
-## Author
+## Author(s)
 
-**Jude Y. Betow**
+**Bakary N’tji Diallo, **Jude Y. Betow**, Boris D. Bekono, Solange A. Tanyi, José L. Medina-Franco5*, Fidele Ntie-Kang**. Further exploration of the chemical space of synthetic and natural chelators: scaffold-, fragment- and functional groups-based analysis (2026)
 
 Research interests: cheminformatics, computational chemistry, natural product chemistry, and AI-assisted drug discovery.
 
