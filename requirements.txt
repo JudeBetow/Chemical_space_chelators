@@ -1,0 +1,12 @@
+# Python dependencies for fragment_analysis_NC_vs_SC.ipynb
+numpy
+pandas
+matplotlib
+seaborn>=0.13.2
+matplotlib-venn
+scipy
+statsmodels
+scikit-learn
+rdkit
+jupyterlab
+ipykernel
